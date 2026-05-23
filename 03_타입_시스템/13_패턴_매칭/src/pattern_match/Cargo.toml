@@ -1,0 +1,7 @@
+[package]
+name = "pattern_match"
+version = "0.1.0"
+edition = "2021"
+default-run = "pattern_match"
+
+[dependencies]

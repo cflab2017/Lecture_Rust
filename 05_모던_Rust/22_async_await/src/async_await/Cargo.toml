@@ -1,0 +1,8 @@
+[package]
+name = "async_await"
+version = "0.1.0"
+edition = "2021"
+default-run = "async_await"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
